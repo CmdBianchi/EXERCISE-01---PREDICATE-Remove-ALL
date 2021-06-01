@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXERCISE 01 - PREDICATE Remove ALL", "EXERCISE 01 - PREDICATE Remove ALL\EXERCISE 01 - PREDICATE Remove ALL.csproj", "{EA75B3A9-6FF2-4BE2-BFE6-87668D4BF464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA75B3A9-6FF2-4BE2-BFE6-87668D4BF464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA75B3A9-6FF2-4BE2-BFE6-87668D4BF464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA75B3A9-6FF2-4BE2-BFE6-87668D4BF464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA75B3A9-6FF2-4BE2-BFE6-87668D4BF464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F783D8D-D9D3-451E-8E3C-9010E30E49EC}
+	EndGlobalSection
+EndGlobal
